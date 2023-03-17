@@ -1,2 +1,2 @@
-# k8s-lab-observability
-k8s-lab-observability
+# Prometheus and Grafana
+k8s-monitoring

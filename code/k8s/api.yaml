@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: api
-        image: techtorialacademydevops/api-metrics
+        image: ethantechtorial/api-metrics
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 5000
